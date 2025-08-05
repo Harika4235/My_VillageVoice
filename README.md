@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # myvillagevoice
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# My_Village_Voice
+>>>>>>> d8f07163452484aae7f1ed9b3510190db01b58fa
