@@ -45,11 +45,6 @@ Many villagers find it hard to communicate problems to local authorities due to 
 - Support regional languages  
 - Encourage faster response by collecting detailed complaint data
 
----
-
-## 🖼️ Screenshots
-
-> *(Add screenshots of your app UI here)*
 
 ---
 
